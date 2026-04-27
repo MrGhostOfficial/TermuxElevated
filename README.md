@@ -39,7 +39,7 @@
   />
 </p>
 <p align="center">
-      ⚠ My All Tools & Tips Made Just For Educational Purpose Only, IAM Not Responsible Any Miss Use, Enjoy.🐧
+      ⚠ My All Tools & Tips Made Just For Educational Purpose Only, IAM Not Responsible Any Miss Use, Enjoy.👾
 </p>
 
 # [ Termux Elevated Setup🙂 ]
@@ -106,7 +106,7 @@ Paste this command to Fix (signal 9) error closed problem👇.
 ```
 adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent";adb shell "/system/bin/device_config put activity_manager max_phantom_processes 2147483647";adb shell settings put global settings_enable_monitor_phantom_procs false;adb shell "/system/bin/dumpsys activity settings | grep max_phantom_processes";adb shell "/system/bin/device_config get activity_manager max_phantom_processes"
 ```
-[[INFO](https://t.me/NetCyberCoder)] if you are facing any issues then Contact me telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.🥀👻
+[[INFO](https://t.me/NetCyberCoder)] if you are facing any issues then Contact me telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.👾
 
 # [License & copyright]
 ![IMG-Copyright-2023](https://github.com/MrGhostOfficial/Admin.Network/blob/master/License_copyright.jpg)
