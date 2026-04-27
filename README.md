@@ -44,7 +44,7 @@
 
 # [ Termux Elevated Setup🙂 ]
 
-[INFO] First Download and install This 7 Application in your phone. You can see All Applications Link, Size and Name is Here. Enjoy gift Script🐸
+[INFO] First Download and install This 7 Application in your phone. You can see All Applications Link, Size and Name is Here.🐸
 
 <p>1. Apk Name: MT Manager.apk
    <br>Apk Size: 21MB
