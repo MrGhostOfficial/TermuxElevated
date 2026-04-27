@@ -3,7 +3,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=MrGhostOfficial&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/repo-size/MrGhostOfficial/TermuxRestore.svg" />
+  <img src="https://img.shields.io/github/repo-size/MrGhostOfficial/TermuxElevated.svg" />
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrGhostOfficial&theme=github_dark" alt="GitHub Profile Summary" />
