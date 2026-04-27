@@ -115,4 +115,4 @@ adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent";adb
 # [License & copyright]
 ![IMG-Copyright-2023](https://github.com/MrGhostOfficial/Admin.Network/blob/master/License_copyright.jpg)
 © [MrGhostOfficial](https://github.com/MrGhostOfficial), Algonquin College Graphic Design, Don't Copy My Script Or i Give You  Copyright Claim
-Licensed under the [[MIT License](https://github.com/MrGhostOfficial/TermuxRestore/blob/master/LICENSE)] (LICENSE).
+Licensed under the [[MIT License](https://github.com/MrGhostOfficial/TermuxElevated/blob/master/LICENSE)] (LICENSE).
