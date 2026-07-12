@@ -66,7 +66,7 @@
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 <img   src="https://raw.githubusercontent.com/MrGhostOfficial/MrGhostOfficial/refs/heads/master/Terminal.gif" />
 
-𝐍𝐨𝐭𝐞: You Need Internal storage 6GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/MOsBQZ4A#3YXg35tI1irBqi21d0hmtVPlV6_j2K4U3BDbf2is4C0)<br/>
+𝐍𝐨𝐭𝐞: You Need Internal storage 6GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/Ae9zjQyB#nGM84rTkB1UvNda55XRRDB4Vah9vNoMj_JSnQtqrFUU)<br/>
 download zip Size-: 2.5GB<br/> moved this file Internal storage: download folder, use chrome browser and copy paste in termux.👇
 <p align=center> 
 《if need then install optional》<br/>
@@ -74,7 +74,7 @@ pkg install tar -y</a>
 </p>
 
 ```
-termux-setup-storage;cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux/files;cd ..;tar -xvzf com.termux.tar.gz;rm -rf com.termux.tar.gz;cd $HOME;echo -e "\033[1;36mTermux Elevated \033[1;33mcom.termux.tar.gz\n\033[1;35mRestore \033[1;32mSuccessfull \033[1;36mDone\033[0;31m.\e[0m"
+termux-setup-storage;cp -rf /sdcard/download/com.termux.tar.gz /data/data/com.termux/files;cd ..;tar -xvzf com.termux.tar.gz;rm -rf com.termux.tar.gz;cd $HOME;echo -e "\033[1;36mTermux Elevated \033[1;33mcom.termux.tar.gz\n\033[1;35mRestore \033[1;32mSuccessful \033[1;36mDone\033[0;31m.\e[0m"
 ```
 
 # Termux phantom process kill disabled☟
