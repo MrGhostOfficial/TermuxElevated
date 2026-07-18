@@ -66,7 +66,7 @@
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 <img   src="https://raw.githubusercontent.com/MrGhostOfficial/MrGhostOfficial/refs/heads/master/Terminal.gif" />
 
-𝐍𝐨𝐭𝐞: You Need Internal storage 6GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/JXsnyRYa#AI-cisRQgcXiu8QZR87o19rKdphPH_rxbUHZ-O_Y9cc)<br/>
+𝐍𝐨𝐭𝐞: You Need Internal storage 6GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/IXN2jCpI#0s5MYZWniIPLbqMx99MlIUUYGRCFvlj_3ys-x5poZ-w)<br/>
 download zip Size-: 2.5GB<br/> moved this file Internal storage: download folder, use chrome browser and copy paste in termux.👇
 <p align=center> 
 《if need then install optional》<br/>
