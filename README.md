@@ -1,7 +1,7 @@
 ## [+] Project InformatioN :
 <p align="center"> <img src="https://github.com/MrGhostOfficial/MrGhostOfficial/blob/master/snake.game.svg" alt="snake"> </center></p>
 
-# Last Update 12/7/2026
+# Last Update 18/7/2026
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=MrGhostOfficial&label=Profile+Views&color=0e75b6&style=flat" />
 <a href="https://github.com/MrGhostOfficial/TermuxElevated/blob/master/README.md">
