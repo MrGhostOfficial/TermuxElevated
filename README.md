@@ -35,7 +35,7 @@
 
 # [ Tutorial VIDEO]
 
-↪️: https://vt.tiktok.com/ZSpCxy23e/
+↪️: https://vt.tiktok.com/ZSpC7ehaH/
 
 # [ Termux Elevated Download🙂 ]
 
