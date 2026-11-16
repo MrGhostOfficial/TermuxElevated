@@ -39,7 +39,7 @@
 
 # [ Termux Elevated Download🙂 ]
 
-[INFO] Download as per your requirement. All Applications Link, Size and Name is Here.👀
+[INFO] Download as per your requirement. All Applications Link, Size and Name is Here.☟
 
 <p>👀. Apk Name: MT Manager ViP.apk
    <br>Apk Size: 25MB
