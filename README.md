@@ -44,9 +44,9 @@
 <p>👀. Apk Name: MT Manager ViP.apk
    <br>Apk Size: 25MB
    <br>↪️:https://mega.nz/file/Na83iI6A#0gub0E8bhtXeg4hecWf3wiu2gQuQxoENN4kBnilpJlM/</p>
-<p>👀. Apk Name: MT Manager.apk
-   <br>Apk Size: 21MB
-   <br>↪️:https://binmt.lanzouy.com/b01bivkzc/</p>
+<p>👀. Apk Name: NP Manager.apk
+   <br>Apk Size: 62MB
+   <br>↪️:http://normalplayer.top/</p>
 <p>👀. Apk Name: Hacker's Keyboard.apk
    <br>Apk Size: 2.71MB
    <br>↪️:https://f-droid.org/packages/org.pocketworkstation.pckeyboard/</p>
