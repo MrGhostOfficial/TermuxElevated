@@ -1,7 +1,7 @@
 ## [+] Project InformatioN :
 <p align="center"> <img src="https://github.com/MrGhostOfficial/MrGhostOfficial/blob/master/snake.game.svg" alt="snake"> </center></p>
 
-# Last Update 16/11/2026
+# Last Update 18/11/2026
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=MrGhostOfficial&label=Profile+Views&color=0e75b6&style=flat" />
 <a href="https://github.com/MrGhostOfficial/TermuxElevated/blob/master/README.md">
@@ -69,8 +69,8 @@
 # [ Download com.termux.tar.gz File Copy Code paste in Termux☟ ]
 <img   src="https://raw.githubusercontent.com/MrGhostOfficial/MrGhostOfficial/refs/heads/master/Terminal.gif" />
 
-𝐍𝐨𝐭𝐞: You Need Internal storage 6GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/1DFyADpT#gwXZ-lA7UsLsO8JkGDRxJP3EcEf4ZH0Kla2rmDJRZVQ)<br/>
-download zip Size-: 2.5GB<br/> moved this file Internal storage: download folder, use chrome browser and copy paste in termux.👇
+𝐍𝐨𝐭𝐞: You Need Internal storage 7GB space for Setup click here↪️: [𝐜𝐨𝐦.𝐭𝐞𝐫𝐦𝐮𝐱.𝐭𝐚𝐫.𝐠𝐳](https://mega.nz/file/dS1UkBjL#Ykd6_Xm4SenRc_kvrHPYF2c2nClTVfhvBEdd8hq-Y0c)<br/>
+download zip Size-: 2.7GB<br/> moved this file Internal storage: download folder, use chrome browser and copy paste in termux.👇
 <p align=center> 
 《if need then install optional》<br/>
 pkg install tar -y</a>
